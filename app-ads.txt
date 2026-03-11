@@ -4,8 +4,8 @@ google.com, pub-7140787344231420, DIRECT, f08c47fec0942fa0
 # Mintegral (DIRECT) - Replace YOUR_MINTEGRAL_PUBLISHER_ID with actual ID from dev.mintegral.com > Account Info
 # mintegral.com, YOUR_MINTEGRAL_PUBLISHER_ID, DIRECT, 0aeed750c80d6423
 
-# Liftoff/Vungle (DIRECT) - Replace YOUR_VUNGLE_ACCOUNT_ID with actual ID from app.vungle.com > Account Settings
-# vungle.com, YOUR_VUNGLE_ACCOUNT_ID, DIRECT, c107d686becd2d77
+# Liftoff/Vungle (DIRECT)
+vungle.com, 69b11483814b9fb754054889, DIRECT, c107d686becd2d77
 
 # === RESELLER entries (Mintegral + Liftoff combined, deduplicated) ===
 
